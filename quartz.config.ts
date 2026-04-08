@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Frostpunk - A Nimble TTRPG Campaign",
+    pageTitle: "Frostpunk",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
