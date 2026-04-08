@@ -29,24 +29,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f9f5f1",
-          lightgray: "#e4d8c3",
-          gray: "#b79d7b",
-          darkgray: "#5b3e1f",
-          dark: "#432e14",
-          secondary: "#c47e20",
-          tertiary: "#e09030",
-          highlight: "rgba(196, 126, 32, 0.12)",
+          light: "#e8e5d8",        // dingy cold parchment
+          lightgray: "#c8c3b0",    // aged border
+          gray: "#8e8a7a",         // muted warm-gray
+          darkgray: "#2e3240",     // dark with cold blue tint
+          dark: "#1a1e2e",         // deep cold navy
+          secondary: "#a06818",    // deep amber for light bg
+          tertiary: "#c07820",     // hover
+          highlight: "rgba(160, 104, 24, 0.12)",
           textHighlight: "#f5ad5c66",
         },
         darkMode: {
-          light: "#2e261f",
-          lightgray: "#3b3026",
-          gray: "#6b563d",
-          darkgray: "#d7c0a3",
-          dark: "#ebdac6",
-          secondary: "#f5ad5c",
-          tertiary: "#f7c380",
+          light: "#131c28",        // deep cold blue-black
+          lightgray: "#1f2d3d",    // dark steel blue
+          gray: "#3d5166",         // mid steel blue
+          darkgray: "#bfbbaa",     // dingy parchment text
+          dark: "#d8d4c2",         // bright dingy parchment for headers
+          secondary: "#f5ad5c",    // Hearth amber — fire against ice
+          tertiary: "#f7c380",     // hover
           highlight: "rgba(245, 173, 92, 0.12)",
           textHighlight: "#f5ad5c44",
         },
