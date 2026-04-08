@@ -22,7 +22,7 @@ title: The Cheat Levels
 **Vicious Opportunist**
 (1/turn) When you hit a Distracted target with a melee attack, you may change the Primary Die roll to whatever you like (changing it to the max value counts as a crit).
 
-> \[!tip]- Distracted
+> [!tip]- Distracted
 > A target is Distracted if it is adjacent to or Taunted by an ally, or if it cannot see you.
 
 ### Level 2
@@ -35,7 +35,7 @@ You’re a well–rounded cheater. Gain the following abilities:
 - If you roll less than 10 on Initiative, you may change it to 10 instead.
 - You may gain advantage on skill checks while playing any games, competitions, or placing wagers. If you’re caught though…
 
-> \[!faq]- Magic?
+> [!faq]- Magic?
 > The Cheat has some abilities that look magical—they might be, but don’t have to be. You have your ways, okay? No need to explain how you did that, not even to the GM!
 
 ### Level 3
@@ -57,7 +57,7 @@ You learn the secret language of rogues and scoundrels.
 **Underhanded Ability**
 Choose an Underhanded Ability.
 
-> \[!tip]- Trade Secrets
+> [!tip]- Trade Secrets
 > Whenever you spend a night talking shop with other roguish types during a Safe Rest, you may choose different Cheat options available to you
 
 ### Level 5

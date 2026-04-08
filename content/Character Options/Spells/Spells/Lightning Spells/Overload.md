@@ -9,6 +9,6 @@ title: Overload
 **Damage:** 2d8 to others within Reach.
 **High Levels:** +4 damage every 5 levels.
 
-> \[!tip] Charged
+> [!tip] Charged
 > Whenever you take lightning damage, you are Charged for 1 minute.
 

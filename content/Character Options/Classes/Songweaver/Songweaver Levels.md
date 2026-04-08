@@ -58,7 +58,7 @@ You may now cast tier 2 spells and upcast spells at tier 2.
 **Lyrical Weaponry**
 Choose 1 ability from the Lyrical Weaponry list.
 
-> \[!tip]- Perform!
+> [!tip]- Perform!
 > Whenever you perform in a place that inspires you, or exchange barbs with another competent wordsmith during a Safe Rest, you may choose different Songweaver options available to you.
 
 ### Level 5

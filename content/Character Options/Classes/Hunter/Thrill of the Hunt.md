@@ -44,6 +44,6 @@ Action: If you have not moved this turn and your quarry is 4 or more spaces away
 **Wild Instinct**
 (1/round, costs 0 TotH charges if you have none.) Assess for free, with advantage.
 
-> \[!tip]- Note
+> [!tip]- Note
 > Unless otherwise noted, each Thrill of the Hunt ability costs 1 charge to use and cannot miss. Abilities that spend charges cannot generate new ones. Unused charges are lost when combat ends.
 

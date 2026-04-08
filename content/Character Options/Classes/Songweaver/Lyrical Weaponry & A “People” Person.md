@@ -33,9 +33,9 @@ When resting, you may summon her for 1 hour to soothe your wounds (and hassle yo
 **Linos, the Everfriendly**
 Summon a legendary flying (but friendly) creature to take you and your party wherever you need to go. He may request a very large amount of food as payment.
 
-> \[!tip]- Flavor is Free
+> [!tip]- Flavor is Free
 > If you’d rather have a more traditional bard type—a keeper of ancient legends—instead of people you know, the characters above can be reflavored as famous legends from history that you can magically summon via song. Feel free to work with your GM to make it happen. As long as the mechanics stay roughly the same, have fun!
 
-> \[!tip]- Making Your Own People
+> [!tip]- Making Your Own People
 > You can work with your GM to swap out Stompy, Gran Gran, Mal, and Linos for your own creations if you like. 1 in-combat person whose damage scales with your level (see other spells and abilities for appropriate amounts of damage or other effects), 1 out-of-combat support person, 1 who can help in narrative situations, and 1 who can give sporadic utility. Follow that broad pattern and you'll be fine!If you find yourself never wanting to use one, make it slightly stronger; if you're using it too frequently, consider bringing the power level down slightly or adding some other drawback.
 

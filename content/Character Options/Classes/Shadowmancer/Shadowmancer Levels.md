@@ -28,7 +28,7 @@ Your Patron grants you knowledge of:
 - Action: Summon a shadow minion within Reach 1 (you can summon a max of INT or LVL minions this way, whichever is lower).
 - Action: (1/turn) Command ALL of your minions to move 6 then attack (Reach 1, 1d12 each).
 
-> \[!tip]- Shadow Minions
+> [!tip]- Shadow Minions
 > Your shadow minions follow the normal minion rules: they have 1 HP, no damage bonus, and do not crit. They abandon you immediately outside of combat. You and your minions are different creatures, so you can attack once and command them to attack without suffering the Rushed Attack penalty!
 
 ### Level 2
@@ -44,7 +44,7 @@ You may steal power from your patron to cast tiered spells, always casting them 
 **THE PACT IS SEALED**
 Choose a subclass and 1 Lesser Shadow Invocation.
 
-> \[!tip]- Supplicate
+> [!tip]- Supplicate
 > Whenever you commune with your Patron on a Safe Rest, you may beg them to allow you to choose different Shadowmancer options (they may ask for something in return).
 
 ### Level 4

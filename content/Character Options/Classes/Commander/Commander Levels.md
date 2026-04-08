@@ -40,7 +40,7 @@ Choose a Combat Tactic. When you roll Initiative, gain STR Combat Dice, each a d
 **Key Stat Increase**
 +1 STR or INT.
 
-> \[!tip]- Rigorous Training
+> [!tip]- Rigorous Training
 > Whenever you train with your party or other soldiers during a Safe Rest, you may choose different Commander options available to you.
 
 ### Level 5

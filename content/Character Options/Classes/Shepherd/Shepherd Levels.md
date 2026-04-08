@@ -38,10 +38,10 @@ You unlock tier 1 Radiant and Necrotic spells and gain a mana pool to cast these
 
 **Upcasting:** Increment its die size by 1 (max d12), +1 healing use.
 
-> \[!tip]- Flavor is Free
+> [!tip]- Flavor is Free
 > Your Lifebinding Spirit can take the form of any small/tiny friendly animal or similar creature (dog, lamb, rabbit, sparrow, etc.). Make sure you give your little buddy a name, too! Outside of combat, your companion is a spirit, so it can pass through walls and dangers harmlessly and briefly move away from you (but always prefers to be faithfully at your side). It cannot speak.
 
-> \[!faq]- Rushed Attacks and My Companion?
+> [!faq]- Rushed Attacks and My Companion?
 > You and your companion use the same action pool, but count as different creatures. So you can each attack once without Rushed Attacks every round. Teamwork!
 
 ### Level 3
@@ -71,7 +71,7 @@ Your cantrips grow stronger.
 **Sacred Grace**
 Choose 2 Sacred Graces.
 
-> \[!tip]- Serve
+> [!tip]- Serve
 > After spending a day tending to a sacred place or serving others during a Safe Rest, you may choose different Shepherd options available to you.
 
 ### Level 6

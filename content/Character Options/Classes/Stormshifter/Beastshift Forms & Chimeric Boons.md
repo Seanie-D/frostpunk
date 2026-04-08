@@ -26,7 +26,7 @@ title: Beastshift Forms & Chimeric Boons
 
 **Silent But Deadly.** Speed: 2. You cannot Defend or Interpose. Attackers cannot target you until you become conspicuous (e.g., being seen transforming or attacking).
 
-> \[!tip]- Tiny Beasts
+> [!tip]- Tiny Beasts
 > Whenever you shapeshift into a Tiny beast, attacks against you are made with disadvantage, but ANY damage ends that shapeshift form.
 
 # Chimeric Boons

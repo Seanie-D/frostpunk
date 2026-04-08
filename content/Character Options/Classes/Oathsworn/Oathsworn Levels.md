@@ -47,7 +47,7 @@ Your Judgment Dice are d8s.
 **Sacred Decree**
 Learn 1 Sacred Decree.
 
-> \[!tip]- Serve Selflessly
+> [!tip]- Serve Selflessly
 > Whenever you perform a notable selfless act during a Safe Rest, you may choose different Oathsworn options available to you.
 
 ### Level 4

@@ -10,6 +10,6 @@ title: Arc Lightning
 On miss: the lightning fails to find ground and strikes you instead.
 **Upcast:** +4 damage.
 
-> \[!tip] Next Closest
+> [!tip] Next Closest
 > If you or an ally is the next closest, they are hit! If 2 creatures are equally close, the GM can roll for it or select the one wearing the most metal.
 

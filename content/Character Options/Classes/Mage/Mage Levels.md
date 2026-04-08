@@ -35,7 +35,7 @@ Choose a Mage subclass.
 **Elemental Mastery**
 Learn the Utility Spells from 1 spell school you know.
 
-> \[!tip]- Study!
+> [!tip]- Study!
 > Whenever you study arcane books or are tutored by a higher level Mage during a Safe Rest, you may choose different Mage options available to you.
 
 ### Level 4

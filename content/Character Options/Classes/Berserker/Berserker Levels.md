@@ -22,10 +22,10 @@ title: Berserker Levels
 **That all you got?!**
 When you are attacked, you may expend 1 or more Fury Dice to reduce the damage taken by STR+DEX for each die spent.
 
-> \[!tip]- Your Rage Ends...
+> [!tip]- Your Rage Ends...
 > If you leave combat, drop to 0 HP, or go 1 round without attacking or Raging.
 
-> \[!tip]- Yes!
+> [!tip]- Yes!
 > You can Rage and gain another Fury Die even if you are already Raging. If you are already at your max, roll as normal and decide which ones to keep. Your Fury Dice are dice when calculating damage for monster armor.
 
 ### Level 2
@@ -52,7 +52,7 @@ While Dying, you Rage automatically for free at the beginning of your turn, have
 **Key Stat Increase**
 +1 STR or DEX. Savage Arsenal. Choose 1 ability from the Savage Arsenal.
 
-> \[!tip]- Wrath & Ruin
+> [!tip]- Wrath & Ruin
 > Whenever you perform a notable act of destruction or feat of strength during a Safe Rest, you may choose different Berserker options available to you.
 
 ### Level 5

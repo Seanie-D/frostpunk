@@ -49,7 +49,7 @@ You may now cast tier 2 spells and upcast spells at tier 2.
 **Stormcaller**
 Learn a Utility Spell from each spell school you know.
 
-> \[!tip]- Be Wild
+> [!tip]- Be Wild
 > Whenever you spend a day with wild animals during a Safe Rest, you may choose different Stormshifter options available to you.
 
 ### Level 5

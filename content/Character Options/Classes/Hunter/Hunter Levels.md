@@ -33,7 +33,7 @@ Choose 2 Thrill of the Hunt (TotH) abilities. Gain a charge to use these abiliti
 **Roll & Strike**
 Action: If you have no Thrill of the Hunt charges, move up to your speed toward your quarry. If you end adjacent to them, make a melee attack against them for free.
 
-> \[!tip]- Remember the Wild
+> [!tip]- Remember the Wild
 > Whenever you spend a day in the wilderness during a Safe Rest, you may choose different Hunter options available to you.
 
 ### Level 3

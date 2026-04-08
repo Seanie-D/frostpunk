@@ -57,7 +57,7 @@ Ignore the first Wound you would suffer each encounter (when-Wounded abilities, 
 **Martial Master**
 Choose a Martial Arts ability.
 
-> \[!tip]- Focus
+> [!tip]- Focus
 > Whenever you spend time meditating alone in a windy place during a Safe Rest, you may choose different Zephyr options available to you.
 
 ### Level 5
