@@ -26,4 +26,4 @@ Utility spells are non-combat magical effects organized by element. Click any sp
 
 ---
 
-*Also see: [[Spell List]] — [[Secret Spell List]].*
+*Also see: [[Spell List]] - [[Secret Spell List]].*

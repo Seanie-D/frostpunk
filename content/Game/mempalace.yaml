@@ -1,0 +1,6 @@
+wing: game
+rooms:
+- name: character_creation
+  description: Files from Character Creation/
+- name: general
+  description: Files that don't fit other rooms

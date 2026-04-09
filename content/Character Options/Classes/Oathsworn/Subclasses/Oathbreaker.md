@@ -2,7 +2,7 @@
 title: Oathbreaker
 ---
 
-—— FALLEN, SEEKING REDEMPTION ——
+-- FALLEN, SEEKING REDEMPTION --
 
 **Dark Benediction**
 Fallen from the light, but not entirely. You lose access to the following Radiant spells: True Strike, Heal, and Warding Bond; and gain access to the following Necrotic spells: Entice, Shadowtrap, and Dread Visage. Whenever you can choose a Utility Spell, you may choose a Radiant or Necrotic one.

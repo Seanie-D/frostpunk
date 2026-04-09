@@ -1,0 +1,6 @@
+wing: regions
+rooms:
+- name: hearth
+  description: Files from Hearth/
+- name: general
+  description: Files that don't fit other rooms

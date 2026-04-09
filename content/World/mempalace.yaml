@@ -1,0 +1,4 @@
+wing: world
+rooms:
+- name: general
+  description: All project files

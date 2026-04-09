@@ -13,7 +13,7 @@ You may gain advantage on all Influence checks with NPCs you’ve just met for t
 ### Level 7
 
 **Pocket Sand**
-(2/encounter—you’ve got to collect more sand!) When you Defend against a melee attack, Blind the attacker until the start of their next turn and force them to reroll the attack (Blinded creatures attack with disadvantage).
+(2/encounter-you’ve got to collect more sand!) When you Defend against a melee attack, Blind the attacker until the start of their next turn and force them to reroll the attack (Blinded creatures attack with disadvantage).
 
 ### Level 11
 

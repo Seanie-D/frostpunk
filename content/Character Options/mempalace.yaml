@@ -1,0 +1,12 @@
+wing: character_options
+rooms:
+- name: ancestries
+  description: Files from Ancestries/
+- name: backgrounds
+  description: Files from Backgrounds/
+- name: classes
+  description: Files from Classes/
+- name: spells
+  description: Files from Spells/
+- name: general
+  description: Files that don't fit other rooms

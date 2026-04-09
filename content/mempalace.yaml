@@ -1,0 +1,16 @@
+wing: frostpunkwiki
+rooms:
+- name: character_options
+  description: Files from Character Options/
+- name: discovered_loot
+  description: Files from Discovered Loot/
+- name: discovered_manuscripts
+  description: Files from Discovered Manuscripts/
+- name: game
+  description: Files from Game/
+- name: regions
+  description: Files from Regions/
+- name: world
+  description: Files from World/
+- name: general
+  description: Files that don't fit other rooms

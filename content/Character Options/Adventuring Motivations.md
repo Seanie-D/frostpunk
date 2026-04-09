@@ -2,7 +2,7 @@
 title: Adventuring Motivations
 ---
 
-The world is a dangerous place—people don’t usually just “go adventuring“ without a reason. Your motivation should make your character want to work with the rest of the group.
+The world is a dangerous place-people don’t usually just “go adventuring“ without a reason. Your motivation should make your character want to work with the rest of the group.
 
 > [!tip]- Or Make Your Own!
 > A great character background has connections with the world, its people, your fellow heroes, or even the bad guys. Work with your GM and fellow players to find a motivation that will cross paths with where the story goes. Every good hero has a desire. What’s yours?
@@ -61,7 +61,7 @@ Which secrets? Magical, lore, politics, what really happened in history?
 
 ### To prove my worth
 
-You were always underestimated—by your family, your village, your peers, or yourself. What will it take to show them you’re more than they thought? What kind of recognition do you seek?
+You were always underestimated-by your family, your village, your peers, or yourself. What will it take to show them you’re more than they thought? What kind of recognition do you seek?
 
 ### I’m following a prophecy
 

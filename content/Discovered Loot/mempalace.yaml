@@ -1,0 +1,4 @@
+wing: discovered_loot
+rooms:
+- name: general
+  description: All project files

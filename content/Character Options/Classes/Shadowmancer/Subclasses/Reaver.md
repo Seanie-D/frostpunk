@@ -2,7 +2,7 @@
 title: Reaver
 ---
 
-—— CAST ASIDE, BORN ANEW ——
+-- CAST ASIDE, BORN ANEW --
 
 **Hollow One**
 Cut off from your patron, you can no longer cast Shadow Blast and you can no longer cast tiered spells using Pilfered Power. However, as a parting token, you have stolen a secret from your patron: The magical Bonescythe, a weapon of sinew and bone, infused with shadowy magic.

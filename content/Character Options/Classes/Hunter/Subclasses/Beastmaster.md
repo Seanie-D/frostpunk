@@ -2,16 +2,16 @@
 title: Beastmaster
 ---
 
-—— TOGETHER, UNSTOPPABLE ——
+-- TOGETHER, UNSTOPPABLE --
 
 **Beastmaster**
 Choose a Small, Medium, or Large animal as your companion. Instead of your first 2 Thrill of the Hunt (TotH) abilities, you can select Go for the Throat! and Protect Me! to use with your companion.
 
 > [!tip]- No Stats or Actions to Track!
-> Your companion’s HP and movement are abstracted; it knows where it is most needed without being told—whether defending you or attacking your quarry. It is smart enough, and you are caring enough, to make sure it is never put in mortal danger.
+> Your companion’s HP and movement are abstracted; it knows where it is most needed without being told-whether defending you or attacking your quarry. It is smart enough, and you are caring enough, to make sure it is never put in mortal danger.
 
 > [!faq]- Extra Abilities?
-> At the GM’s discretion, your companion can also do anything the base animal can do: fly, sniff out scents, be used as a mount, etc. Even more complex actions like Grapple or Help may be doable if it makes sense (you’ll need to spend 1 action to command it though—it isn’t smart enough to do so on its own).
+> At the GM’s discretion, your companion can also do anything the base animal can do: fly, sniff out scents, be used as a mount, etc. Even more complex actions like Grapple or Help may be doable if it makes sense (you’ll need to spend 1 action to command it though-it isn’t smart enough to do so on its own).
 
 > [!tip]- Note
 > Your companion’s attacks count as your own for gaining TotH charges. Abilities that spend TotH charges cannot miss nor can they generate new charges. Unused charges are lost when combat ends.

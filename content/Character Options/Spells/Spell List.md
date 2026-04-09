@@ -63,4 +63,4 @@ Spells are organized by element. Click any spell to read its full description.
 
 ---
 
-*Also see: [[Utility Spell List]] — [[Secret Spell List]].*
+*Also see: [[Utility Spell List]] - [[Secret Spell List]].*

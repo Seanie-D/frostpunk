@@ -36,7 +36,7 @@ You’re a well–rounded cheater. Gain the following abilities:
 - You may gain advantage on skill checks while playing any games, competitions, or placing wagers. If you’re caught though…
 
 > [!faq]- Magic?
-> The Cheat has some abilities that look magical—they might be, but don’t have to be. You have your ways, okay? No need to explain how you did that, not even to the GM!
+> The Cheat has some abilities that look magical-they might be, but don’t have to be. You have your ways, okay? No need to explain how you did that, not even to the GM!
 
 ### Level 3
 

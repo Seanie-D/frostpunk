@@ -2,7 +2,7 @@
 title: Welcome to the Frostpunk RPG
 ---
 
-The world is cold. Not just winter-cold, but a deep, arcane, soul-chilling ice that put civilization in the fridge, permanently. You are a member of the **Guild**, a group of brave (or desperate) heroes who venture into the frozen wastes to recover magical relics and fuel the ancient **Hearth Engine** — the only thing keeping the town of Hearth alive.
+The world is cold. Not just winter-cold, but a deep, arcane, soul-chilling ice that put civilization in the fridge, permanently. You are a member of the **[[The Guild|Guild]]**, a group of brave (or desperate) heroes who venture into the frozen wastes to recover magical relics and fuel the ancient **[[The Hearth Engine]]** - the only thing keeping the town of [[Hearth]] alive.
 
 ## The Core Session Loop
 
@@ -23,6 +23,6 @@ The world is cold. Not just winter-cold, but a deep, arcane, soul-chilling ice t
 
 ## Starting Out
 
-- [[Character Creation]] — Build your character and answer the GM's questions.
-- [[Mission Hub]] — Active relic site leads.
-- [[Guild Hub]] — How the Guild works.
+- [[Character Creation]] - Build your character and answer the GM's questions.
+- [[Mission Hub]] - Active relic site leads.
+- [[Guild Hub]] - How the Guild works.
