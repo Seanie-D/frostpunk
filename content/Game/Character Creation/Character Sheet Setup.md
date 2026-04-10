@@ -16,7 +16,7 @@ The Discord is your first stop. Session scheduling, between-session questions, a
 
 ## Step 2 - Create Your Character Sheet on Nimbound
 
-Build your character at [nimble-rpg.com](https://nimble-rpg.com) using the **Nimbound** digital character sheet.
+Build your character at **[Nimbound](https://nimboundv2.com/)** — the digital character sheet platform for this campaign.
 
 **Your character has four things to pick:**
 - **Ancestry** - [[Ancestries List|Browse ancestries here]]
@@ -51,6 +51,8 @@ Head to [[Thinking Up Your Character]] and fill out the backstory questions if y
 ## Leveling Up
 
 This campaign uses **milestone leveling**. Your entire Division levels up together - there is no individual XP. The GM will announce when a milestone is reached.
+
+**Starting level:** All new characters begin at **Level 1** as Guild recruits. Upon completing your first proving period and becoming a full-fledged Guild member, the whole Division advances to **Level 2**. From there, milestones are tied to campaign events the GM tracks.
 
 ---
 

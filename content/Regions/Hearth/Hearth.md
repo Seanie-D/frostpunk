@@ -29,7 +29,7 @@ Shrike holds the Engine. Kessel holds public trust. Karsen holds the only armed 
 ## Key Locations
 
 ### The Guildhouse (The Old Fort)
-An ancient ruin of unknown Age that Shrike discovered the [[The Hearth Engine]] inside. The Guild moved in rather than build around it. The fort IS the Guildhouse: upper floors serve as offices and administration, the ground floor handles operations, and the Engine Chamber sits at the deepest point - the beating heart of both the building and the town.
+An ancient ruin from the [[The Six Ages#Age III - The Dark Ages|Dark Ages]] that Shrike discovered the [[The Hearth Engine]] inside. The Guild moved in rather than build around it. The fort IS the Guildhouse: upper floors serve as offices and administration, the ground floor handles operations, and the Engine Chamber sits at the deepest point - the beating heart of both the building and the town.
 
 - **[[Luthor Shrike|Governor's Office]]** - upper floor; issues charters, sanctions expeditions
 - **[[Mission Hub|Mission Board]]** - ground floor; where Guild contracts are posted
@@ -55,7 +55,7 @@ A reinforced stone depot adjacent to the main gate. Weapons, armor, and reinforc
 ---
 
 ### The Wardens' Shrine & Infirmary
-A converted building housing a small altar, a surgery ward, and a supply room. The only place in Hearth where ordinary people feel genuinely cared for rather than administered. As the [[The Flamewardens|Flamewardens]] grow, this becomes a full temple. For now it's a soup kitchen with medical capabilities.
+A converted building housing a small altar, a surgery ward, and a supply room. The only place in Hearth where ordinary people feel genuinely cared for rather than administered. Part soup kitchen, part clinic, part place of quiet reflection.
 
 - **Medic:** [[Elara]] - field-trained, deeply kind
 - **Leader:** [[Aria Kessel]] - holds services, meets with citizens, exerts quiet moral pressure on Guild policy
@@ -63,7 +63,7 @@ A converted building housing a small altar, a surgery ward, and a supply room. T
 ---
 
 ### The Gate & Walls
-Hearth's outer perimeter - timber-and-stone construction reinforced with salvaged Magitech sheeting. The gate is the only sanctioned exit. All expeditions pass through here; [[The Frostwatch]] logs every departure and return.
+Hearth's outer perimeter - timber-and-stone construction reinforced with salvaged Magitech sheeting to help resist any especially fierce Black Blizzards. The gate is the only sanctioned exit. All expeditions pass through here; [[The Frostwatch]] logs every departure and return.
 
 ---
 
@@ -83,15 +83,16 @@ Hearth feels like a melting pot combined with a mining town at the edge of a dis
 
 **Sounds:** The Engine's deep hum (always present; noticeable when it fluctuates), wind against the walls, the Blue Flame's crowd noise, metal on metal from the Armory.
 
-**Smells:** Coal smoke, stew, wet wool, something faintly chemical drifting up from the Engine Chamber.
+**Smells:** Coal smoke, stew, wet wool, something faintly chemical drifting up from the Engine Chamber of the Guildhall.
 
-**Light:** Brighter than the surrounding [[The Wastes|Wastes]] - lanterns are common, the Blue Flame's light spills into the square. Outside the walls, torchlight is the only option.
+**Light:** Brighter than the surrounding [[The Wastes|Wastes]] - lanterns are common, the Blue Flame's light gently spills into the square.
 
 ---
 
 ## See Also
 
 - [[The Hearth Engine]] - how the town stays alive
+- [[Hearth Market]] - what's available to buy in town
 - [[The Guild]] - the organization that runs the expeditions
 - [[Guild Hub]] - how the Guild works, ranks, and contracts
 - [[The Six Ages]] - history of the world that produced Hearth

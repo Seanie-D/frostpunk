@@ -21,8 +21,31 @@ The world is cold. Not just winter-cold, but a deep, arcane, soul-chilling ice t
 
 ---
 
-## Starting Out
+---
 
-- [[Character Creation]] - Build your character and answer the GM's questions.
-- [[Mission Hub]] - Active relic site leads.
-- [[Guild Hub]] - How the Guild works.
+## New Players — Start Here
+
+**Step 1 — Join the Discord**
+
+The Discord is where sessions are scheduled, questions get answered, and everything important is pinned. Get the invite link from Sean before anything else.
+
+**Step 2 — Create Your Character**
+
+Head to [[Character Creation]] and work through both pages: [[Thinking Up Your Character]] first, then [[Character Sheet Setup]] to build your sheet on [Nimbound](https://nimboundv2.com/). Send your answers to the GM's questions to Sean when you're done.
+
+**Step 3 — Schedule Your First Session**
+
+Once your character is ready, message Sean directly to get on the calendar. Your first session will include a short one-on-one opening scene before you join the rest of the group.
+
+---
+
+## Other Resources
+
+- [[Session Layout]] - What a typical session looks like from start to finish.
+- [[Mission Hub]] - Active relic site leads and current Guild contracts.
+- [[The Guild]] - The organization you work for and how it operates.
+- [[Hearth (Town)|Hearth]] - The town, the people, and the factions.
+
+---
+
+*Frostpunk RPG uses the **[Nimble TTRPG](https://nimblerpg.com)** system.*

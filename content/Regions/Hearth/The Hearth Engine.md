@@ -17,9 +17,9 @@ When Shrike first found the Engine, a nearby Magitech recording device projected
 > *Flames guide you. May your courage burn ever brighter."*
 
 ## How it Works
-The Engine draws on the magical energy stored in relics and converts it into a resistor of the Arcane Frost. The output is an invisible **Thermal Sphere** - a field that, within its radius, causes the world to exist at pre-Frost temperatures. It does not simply generate heat; it pushes back the Frost itself. Step inside the Sphere and the air is breathable, the ground workable, the cold merely winter rather than the end of the world. Step outside it and the Frost returns immediately.
+The Engine draws on the magical energy stored in relics and converts it into a resistor of the Arcane Frost. The output is an invisible **Thermal Sphere** - a field that, within its radius, causes the world to exist at pre-Frost temperatures. It does not simply generate heat; it pushes back the Frost itself. Step inside the Sphere and the air is temperate, the ground workable, the cold merely winter rather than the end of the world. Step outside it and the Frost returns immediately.
 
-The Sphere's fuel is constantly depleting. If it goes unfed, the Sphere contracts. If it contracts far enough, Hearth dies.
+The Sphere's fuel is constantly depleting. If it goes unfed, the Sphere contracts. If it contracts far enough, Hearth starts to die.
 
 ### Fueling the Engine
 - **Relics:** Any magical item or artifact recovered from the world outside of Hearth can be sacrificed to the Engine.
