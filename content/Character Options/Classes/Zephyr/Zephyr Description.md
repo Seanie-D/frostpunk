@@ -1,6 +1,7 @@
 ---
 title: Zephyr Description
 ---
+![[{4FAA1F10-5008-430F-9873-D5C0FEE82029}.png]]
 
 A Zephyr dedicates their life to the relentless pursuit of kinetic perfection. They hone their bodies into blurs of motion, training from a young age in remote wilds or mountain monasteries, wielding speed to unleash blows that echo through their foes and slip past attacks like a whispering wind. *Speed* is both their weapon and shield.
 

@@ -1,6 +1,7 @@
 ---
 title: Songweaver Description
 ---
+![[{ABA1F7ED-25F4-4624-AB46-BB558CE35D27}.png]]
 
 Just TRY and resist my charm… *wait-NO, don’t!* Each Songweaver holds a spark granted to them by a muse at birth; a spark which fuels their creative energy and flows forth in the form of a sharp wit, relentless humor, or moving art.
 

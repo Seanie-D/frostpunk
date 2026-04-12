@@ -1,3 +1,7 @@
+---
+title: The Hearth Engine
+---
+
 The Hearth Engine is the beating heart of the town of [[Hearth]]. It is an ancient, arcane construct discovered by Governor Luthor Shrike during the onset of the Frost, before the world fully collapsed. Shrike recognized what it could do and fed his guild's entire relic collection into it over the following years to keep the Thermal Sphere burning. That founding collection lasted until Year 9. It is now gone.
 
 Guild scholars believe the Engine dates to the [[The Six Ages#Age IV - The Magitech Dominion|Age of the Magitech Dominion]], based on how it processes magical energy. Its creator identified himself as **Thalorin Vex** - a figure who, by all surviving records, predicted the Frost long before anyone believed him.
@@ -21,9 +25,26 @@ The Engine draws on the magical energy stored in relics and converts it into a r
 
 The Sphere's fuel is constantly depleting. If it goes unfed, the Sphere contracts. If it contracts far enough, Hearth starts to die.
 
+The world inside the Sphere behaves as it should. Seasons still turn within its boundary, as though the weather is fighting to do its job despite the cold outside. At midsummer the air is temperate, grass is bright green, and the days feel like a mild spring. In winter the ground goes muddy and the temperature settles in the 40-50s (Fahrenheit) - jacket weather, cold enough to be unpleasant but not dangerous. Water never freezes inside the Sphere. Snow that falls above the boundary becomes rain the moment it crosses into Hearth's air.
+
 ### Fueling the Engine
 - **Relics:** Any magical item or artifact recovered from the world outside of Hearth can be sacrificed to the Engine.
 - **Lore Manuscripts:** While not as potent as relics, ancient manuscripts contain the essence of knowledge and can be "processed" (2 manuscripts = 1 minor relic's worth of fuel).
+
+## Blessings of the Engine
+
+The Engine does not simply consume. Those who feed it generously find themselves... changed. Bolstered. As though the Engine returns something of what it is given.
+
+Guild scholars have no clean explanation for this. The Flamewardens do not find it surprising at all.
+
+- **Feed one relic:** Receive a **temporary blessing** - a short-term boon that fades after rest.
+- **Feed three relics at once:** Receive a **Minor Blessing** - a permanent boon.
+- **Feed six relics at once:** Receive a **Major Blessing** - a more powerful permanent boon.
+- **Feed ten relics at once:** Receive an **Epic Blessing** - a rare and significant permanent boon.
+
+See [[Boons of the Engine]] for the full list of available blessings.
+
+---
 
 ## Feeding Log
 

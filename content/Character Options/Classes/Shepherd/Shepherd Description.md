@@ -1,6 +1,7 @@
 ---
 title: Shepherd Description
 ---
+![[{88AACD19-0FA8-43E0-BC9A-BF774AF9ADAA}.png]]
 
 Let all who are afflicted come. I will mend thy bones and soothe thy wounds. Thou shalt revere the gifts of life and death, neither of which is ever given or taken. Rather, we are all souls merely journeying between this realm and that of the beyond. But alas, often do these wandering souls find themselves bereft of guidance. Thus falls upon the Shepherd the solemn duty-to be a beacon of light to those ensnared in darkness, and darkness to those who, in hubris, deem themselves to be the light.
 

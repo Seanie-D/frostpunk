@@ -1,6 +1,7 @@
 ---
 title: The Cheat Description
 ---
+![[{CC45A7BA-BF75-46B9-98AD-032CB24D5428}.png]]
 
 Cloak and dagger… and dagger. The common Cheat doesn’t call herself a Cheat, of course-rather, a streetsmart rogue, a survivalist, or a liberator of unused goods. They are masters of stealth, pickpocketing, and smooth talking. Some of the more vicious ilk are masters of death-dealing as well.
 

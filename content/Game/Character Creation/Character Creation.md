@@ -9,7 +9,7 @@ Making a character is a two-part process. Use both of these pages together - the
 ## Start Here
 
 ### [[Thinking Up Your Character]]
-The creative side. Who are you? Where did you come from? What drives you into the frost? This page has questions for the GM, backstory prompts, and links to browse all your options - Ancestries, Classes, Backgrounds, and Spells.
+The creative side. Who are you? Where did you come from? What drives you on expeditions into the Frost? This page has questions for the GM, backstory prompts, and links to browse all your options - Ancestries, Classes, Backgrounds, and Spells.
 
 ### [[Character Sheet Setup]]
 The technical side. Once you have a sense of who your character is, this page walks you through building them in Nimbound and setting up your inventory in the Frostpunk Inventory Manager.
@@ -25,4 +25,4 @@ The technical side. Once you have a sense of who your character is, this page wa
 
 ---
 
-*Questions? Ask in Discord.*
+*Questions? Ask in Discord. If you'd rather read through the rules as a PDF than navigate the website, message Sean - he can send you the rulebook PDFs directly.*

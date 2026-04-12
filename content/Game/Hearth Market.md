@@ -9,7 +9,7 @@ title: Hearth Market
 ## Permanent Merchants
 
 ### The Guild General Store
-*Ground floor of the [[Hearth#The Guildhouse (The Old Fort)|Guildhouse]]. Run by [[Selka Driftmantle]].*
+*Ground floor of the [[Hearth#The Guildhall (The Old Fort)|Guildhall]]. Run by [[Selka Driftmantle]].*
 
 The first stop before any expedition. Selka keeps a no-nonsense stock of survival essentials.
 
@@ -140,7 +140,7 @@ The Blue Flame is where specialists looking for work tend to congregate. Who's a
 
 ## Visiting Traders
 
-The market square outside the Guildhouse sees a rotating cast of traders, wanderers, and the occasional odd visitor. Who's in town changes between sessions - some trips you'll find a well-stocked merchant ready to deal; others the square is empty and the gates are sealed against a storm.
+The market square outside the Guildhall sees a rotating cast of traders, wanderers, and the occasional odd visitor. Who's in town changes between sessions - some trips you'll find a well-stocked merchant ready to deal; others the square is empty and the gates are sealed against a storm.
 
 Traders tend to arrive from the surrounding regions: nomadic wanderers from the Wastes, Cydonian remnant merchants, independent scavengers, and occasionally someone from much further afield. What they carry reflects where they've been.
 

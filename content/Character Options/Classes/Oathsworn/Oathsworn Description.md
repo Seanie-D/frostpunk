@@ -1,6 +1,7 @@
 ---
 title: Oathsworn Description
 ---
+![[{9422AECA-5336-4D48-A515-8FA7932D3943}.png]]
 
 I will protect my companions and vanquish evil at all costs. Various orders of these zealous, holy warriors have attained great physical and radiant strength through absolute devotion to a higher power in the form of oaths. Through their strength, both physical and radiant, nothing can sway them from their hunger for justice and their fervent pursuit and hatred of evil.
 

@@ -1,6 +1,7 @@
 ---
 title: Berserker Description
 ---
+![[{92632202-72B9-43B5-B8B0-424DC54FFF17}.png]]
 
 Wrath and Ruin. The Berserker is destruction. He knows not fatigue nor caution-both surely driven away from him in a relentless fury. Those of barbaric nature are said to eat only the dust of war and drink naught but the blood of those felled by their own hand.
 

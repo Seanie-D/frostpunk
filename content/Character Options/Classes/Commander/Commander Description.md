@@ -1,6 +1,7 @@
 ---
 title: Commander Description
 ---
+![[{8CB3AE52-D709-4BFE-ABBC-D2704F5999AB}.png]]
 
 Soldier… Warrior… Fearless Leader. Among the most skilled soldiers in the world, Commanders are masters of every weapon and form of close combat. A small cohort of soldiers led by a trained Commander is more feared than innumerable legions without one.
 

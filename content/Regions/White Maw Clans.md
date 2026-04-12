@@ -2,9 +2,9 @@
 title: White Maw Clans
 ---
 
-> *They were here before the Frost. They say they'll be here after it too.*
+> *They were here before the Frost, and they've determined to endure it.*
 
-The White Maw Clans are a loose confederation of nomadic survivors who live in [[The Wastes]] - humans, orcs, and beastfolk who refused to retreat to any city when the cold came, because they had nowhere to retreat to and nothing to retreat from. The Wastes have always been theirs.
+The White Maw Clans are a loose confederation of nomadic survivors who live in [[The Wastes]] - humans, orcs, beastfolk, and others who refused to retreat to any city when the cold came, because they had nowhere to retreat to and nothing to retreat from. The Wastes have always been theirs.
 
 ---
 
@@ -33,12 +33,12 @@ The [[The Frostwatch|Frostwatch]] tracks White Maw movements when it can. The [[
 
 ## What Is Not Known
 
-Most of the Clans' internal structure, beliefs, and politics are unknown to Hearth's population. They are out there. They have survived. What else they are, what they want, and what they know about the Wastes - that is something expeditions may discover.
+Most of the Clans' internal structure, beliefs, and politics are unknown to Hearth's population. We know they are out there, and continue to survive in the Frost. What else they are, what they want, and what they know about the Wastes - that is something expeditions may discover.
 
 ---
 
 ## See Also
 
 - [[The Wastes]] - the region they call home
-- [[Hearth (Town)]] - the town on their border
+- [[Hearth]] - the town on their border
 - [[The Guild]] - the organization expeditions run into them for

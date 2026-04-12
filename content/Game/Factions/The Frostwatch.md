@@ -4,7 +4,7 @@ title: The Frostwatch
 
 > *"Every expedition that leaves this gate is a risk I have to account for. Don't make my job harder."*
 
-The Frostwatch is [[Hearth (Town)|Hearth]]'s armed force - the guards on the walls, the patrols in the streets, the soldiers who log every departure and return at the gate. If the [[The Guild|Guild]] keeps the Engine fed and the [[The Flamewardens|Flamewardens]] keep people from losing hope, the Frostwatch is what keeps the walls from being overrun.
+The Frostwatch is [[Hearth|Hearth]]'s armed force - the guards on the walls, the patrols in the streets, the soldiers who log every departure and return at the gate. If the [[The Guild|Guild]] keeps the Engine fed and the [[The Flamewardens|Flamewardens]] keep people from losing hope, the Frostwatch is what keeps the walls from being overrun.
 
 ---
 
@@ -15,6 +15,7 @@ The Watch maintains Hearth's outer perimeter: timber-and-stone walls reinforced 
 - Guarding the gate and logging all expedition arrivals and departures
 - Patrolling the residential quarter and the market square
 - Responding to threats from the Wastes - raiding parties, ice creatures, anything that reaches the walls
+- Maintaining the Summit Post at the peak of Hearth's mountain - a watch position guarding against anyone attempting to bypass the gate by coming in over the high ground
 - Escorting trade caravans when resources allow
 
 The Watch is not large. They are stretched thin, armed with mismatched gear, and acutely aware that the worst-case scenario - a sustained assault on Hearth's walls while the Engine is running low - is not hypothetical.
@@ -31,7 +32,7 @@ He keeps a personal log of every expedition team, their departure time, and thei
 
 ## The Frostwatch and Adventurers
 
-Karsen's relationship with Guild expeditions is complicated. He understands the Engine has to be fed. He does not enjoy watching adventurers walk out the gate with Guild gear and institutional authority, run expeditions that serve nobody's strategic interests, and walk back in expecting to be celebrated.
+Karsen's relationship with Guild expeditions is complicated. He understands the Engine has to be fed. He does not enjoy watching adventurers walk out the gate with Guild gear and institutional authority, run expeditions that serve nobody's strategic interests but their own, and walk back in expecting to be celebrated.
 
 This tension is professional, not personal. Follow protocol at the gate, don't cause scenes in town, and the Watch will leave you alone.
 
@@ -47,9 +48,12 @@ Karsen controls the walls and the only armed force in town. That is his leverage
 
 ---
 
+> [!note] The Cord of Three Strands
+> A carved wooden panel at [[The Blue Flame]] depicts all three faction leaders - bound together by a braided cord. Beneath it: *"A cord of three strands is not quickly broken."* - [[The Cord of Three Strands]]
+
 ## See Also
 
-- [[Hearth (Town)]] - including the Watch Armory
+- [[Hearth]] - including the Watch Armory
 - [[Hearth Market]] - Kaelen Thorne's armory inventory
 - [[The Guild]] - the faction they are in tension with
 - [[The Flamewardens]] - the faction they work alongside

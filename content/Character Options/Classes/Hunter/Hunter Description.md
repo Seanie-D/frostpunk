@@ -1,6 +1,7 @@
 ---
 title: Hunter Description
 ---
+![[{C4CF0E30-3C66-4F1F-8BE3-4F380920F261}.png]]
 
 Respect the forest and her children, and she will bestow upon you many gifts. Long before the first stones of the grand kingdoms had been laid, there was The Wild. We Hunters called groves and fields home, just as the elk and boar still do. We have trained our minds and hearts as much as we have trained with bows.
 

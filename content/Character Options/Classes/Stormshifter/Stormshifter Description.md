@@ -1,6 +1,7 @@
 ---
 title: Stormshifter Description
 ---
+![[{83F293B9-B456-43E7-8581-8ED0E399DEDF}.png]]
 
 The trees whisper their excitement, the clouds sing with glee. Rejoice! The Master of Storm & Fang arrives. All who would seek passage through the ancient grove, heed this warning: Do not provoke the forest or its inhabitants. Beseech for passage humbly, even if its guardian is unseen, rest assured that you… are not.
 

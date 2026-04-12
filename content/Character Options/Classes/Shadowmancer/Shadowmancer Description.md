@@ -1,6 +1,7 @@
 ---
 title: Shadowmancer Description
 ---
+![[{483BA1E8-C9FC-458B-B442-F0C1FE29D8F0}.png]]
 
 Totally NOT evil. Why would you even say that? Great power sometimes comes from… horrible places. But what’s the alternative, spend our entire lives… STUDYING?! Now that’s horrible. Who’d want to waste their lives reading *books*-learning magic the hard way? *Work SMART, not hard.* Just scheme up a way to take what you need from someone who won’t miss it-ancient horrors don’t guard their power nearly as well as you’d think! And if there’s power just laying around, it’d be dumb of me to not use it, really.
 

@@ -161,6 +161,14 @@ Some starting points:
 - Someone you trust vouched for the Guild, or someone you owe is already in it.
 - You've got nothing left to lose - or nothing left to stay for.
 
+> [!tip] For the rare few players who write a very long backstory
+> You're an awesome player and we're lucky to have someone so enthusiastic - but here are some tips I stole from the internet on keeping it collaborative:
+> 1. Write all you like! Then respect the GM's time by providing a **very brief summary** up front.
+> 2. Do not regard anything outside of that summary as canon until it hits the table, and be ready to negotiate what you've written.
+> 3. Ask before providing more, and don't assume they will read further - and don't take it personally; GMing is so much work already!
+> 4. Be more emotionally invested in the present and myriad possible futures of your character than in their past.
+> 5. Consider becoming the **primary notetaker** of your groups or your Division - you're clearly high effort and detail oriented. ;)
+
 ---
 
 ## The Heroic Vignette

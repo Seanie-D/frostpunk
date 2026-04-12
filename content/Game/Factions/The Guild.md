@@ -2,9 +2,9 @@
 title: The Guild
 ---
 
-> *"We're not heroes. We're the ones who go out there so everyone else doesn't have to."*
+> *"We're the ones who go out there so everyone else doesn't have to."*
 
-The Guild is the organization you work for. Officially: the Relic Hunters' Guild of [[Hearth (Town)|Hearth]]. Practically: the only reason the town is still warm.
+The Guild is the organization you work for. Officially: the Relic Hunters' Guild of [[Hearth|Hearth]]. Practically: the only reason the town is still warm.
 
 ---
 
@@ -12,7 +12,7 @@ The Guild is the organization you work for. Officially: the Relic Hunters' Guild
 
 The [[The Hearth Engine|Hearth Engine]] requires a steady supply of magical relics to keep running. The Guild exists to provide them. Every sanctioned expedition, every contract posted on the [[Mission Hub|Mission Board]], every relic delivered to the Engine Chamber - that is the Guild's work.
 
-Without the Guild, the Engine starves. Without the Engine, Hearth freezes. The math is simple.
+Without the Guild, the Engine starves. Without the Engine, Hearth freezes. The math is simple!
 
 ---
 
@@ -26,32 +26,30 @@ Shrike controls the Engine. That gives him considerable leverage.
 
 ## How It Works
 
-Guild members are authorized to run expeditions into [[The Wastes]] and beyond. In exchange:
+Guild members are authorized to run expeditions into [[The Wastes]] and beyond. There is no salary. The relics you find are your compensation - what you keep, burn, sell, or use is entirely your call.
 
-- The Guild provides access to contracts, maps, and intelligence on relic sites
-- The Guild General Store in the Guildhouse sells gear at reasonable prices
-- Guild members receive free stabling at The Blue Flame
-- Relics delivered to the Engine Chamber earn pay and standing
+The Guild asks for one thing in return: **the Engine gets fed.** At minimum, one relic per expedition must go in. Beyond that, every decision about what to burn and what to pocket is yours.
 
-**Engine feeding is not optional.** At minimum, one relic per week must go to the Engine. The Guild takes care of the accounting. What you keep after that is negotiable.
+In exchange for membership, the Guild provides:
+
+- Access to contracts, maps, and intelligence on relic sites via the [[Mission Hub|Mission Board]]
+- Housing inside the Guildhall fort - warm, close to the Engine, and considerably more comfortable than most of Hearth (or the known world, for that matter)
+- Hot showers! Courtesy of the Engine's heat - a genuine luxury in a frozen world.
+- The Guild General Store, stocked by [[Selka Driftmantle]], selling gear at reasonable prices
+- Institutional backing - the Guild's name carries weight out in the Wastes
 
 ---
 
 ## The Mission Board
 
-Active contracts are posted in the ground floor of the Guildhouse. Each entry describes a known or suspected relic site, what the Guild knows about the risks, and what it's prepared to pay. See the [[Mission Hub]] for current postings.
+Active contracts are posted in the ground floor of the Guildhall. Each entry describes a known or suspected relic site and what the Guild knows about the risks. See the [[Mission Hub]] for current postings.
 
-You are not required to take a Guild contract - you can run your own expeditions. But Guild-sanctioned work comes with institutional support and better information.
 
 ---
 
 ## Ranks and Standing
 
-New Guild members begin as **recruits** - Level 1, unproven, working their first contracts under provisional membership. Once you've completed your proving period and demonstrated you can do the work, you become a full-fledged Guild member and advance to **Level 2**.
-
-From there, the Guild tracks your reliability. Show up, deliver relics, don't cause incidents, and your standing grows. Standing affects what contracts are available to you, how the Guild's NPCs treat you, and what resources you can access.
-
-Cause problems - selling relics outside the Guild, abandoning contracts, bringing back less than you claimed - and that standing drops.
+New members start as **recruits** at Level 1. Complete your first expedition and you become a full Guild member at **Level 2**. After that, you're free to operate as you see fit - the only thing the Guild asks is that the Engine stays fed.
 
 ---
 
@@ -65,9 +63,12 @@ Shrike manages both tensions - carefully.
 
 ---
 
+> [!note] The Cord of Three Strands
+> A carved wooden panel at [[The Blue Flame]] depicts all three faction leaders - bound together by a braided cord. Beneath it: *"A cord of three strands is not quickly broken."* - [[The Cord of Three Strands]]
+
 ## See Also
 
 - [[The Hearth Engine]] - what the Guild exists to feed
 - [[Mission Hub]] - active contracts
 - [[Hearth Market]] - what the Guild store sells
-- [[Hearth (Town)]] - the town the Guild keeps alive
+- [[Hearth]] - the town the Guild keeps alive

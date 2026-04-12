@@ -1,6 +1,7 @@
 ---
 title: Mage Description
 ---
+![[{BAFCFC0D-F418-41E9-B8DC-9DDC4890AB1C}.png]]
 
 Elemental power flows through all things… find it, study it, and harness it. A mage is bestowed their first strand of the Tapestry at birth; however, true mastery eludes those who idly rest upon this innate endowment. Instead, they diligently refine their natural gifts through scholarly pursuit, with tomes and parchments as their companions, alongside the sage counsel of a seasoned mentor or three! Yes, this is the chosen path of those who would wield authority over the elements.
 

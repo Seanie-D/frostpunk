@@ -2,7 +2,7 @@
 title: Downtime
 ---
 
-The time between expeditions is called **Downtime** - the hours and days spent in [[Hearth (Town)|Hearth]] while the world stays frozen outside the walls.
+The time between expeditions is called **Downtime** - the hours and days spent in [[Hearth|Hearth]] or nearby while the world stays frozen outside the walls.
 
 At the **end of each session**, every player chooses a Downtime Activity. That activity is resolved at the **start of the next session** before the group heads out again. Not everything needs to be roleplayed in full - much of it can be narrated quickly or handled in a sentence. The point is that time passed and your character did something with it.
 
@@ -28,16 +28,16 @@ At the **end of each session**, every player chooses a Downtime Activity. That a
 
 - **Mentor.** Teach a skill to another character or NPC. Useful for building relationships and occasionally for mechanical effects.
 
-- **Research.** Dig into a mystery, study a manuscript recovered from a relic site, or chase down hidden knowledge. A good option for leads that aren't worth a full expedition.
+- **Research.** Dig into a mystery, study a manuscript recovered from a relic site, or chase down hidden knowledge. A good option for leads that aren't worth a full expedition, or deducing the location of a relic site.
 
 - **Serve.** Aid one of Hearth's factions - the Guild, the Flamewardens, the Frostwatch - in exchange for standing, favors, or resources.
 
-- **Build.** Establish something lasting - a business, a safe house, a resource network. Scope and feasibility determined by the GM.
+- **Build.** Establish something lasting - a business, a safe house, a resource network. Scope and feasibility determined by the GM, and might take more than one Downtime.
 
 ---
 
 ## See Also
 
 - [[Session Layout]] - the full session structure, including where Downtime fits
-- [[Hearth (Town)]] - where Downtime happens
+- [[Hearth]] - where Downtime happens
 - [[Hearth Market]] - for Buy & Sell activities
