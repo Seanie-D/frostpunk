@@ -16,9 +16,11 @@ The Discord is your first stop. Session scheduling, between-session questions, a
 
 ## Step 2 - Create Your Character Sheet on Nimbound
 
-*(Optional)* Watch this tutorial for a walkthrough of both Nimbound and the Frostpunk Inventory Manager:
+Watch this tutorial for a walkthrough of both Nimbound and the Frostpunk Inventory Manager:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCVX6Txa8-o" title="Nimbound Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[[Nimbound & Frostpunk Inventory Tutorial Transcript|View full transcript and summary →]]
 
 Build your character at **[Nimbound](https://nimboundv2.com/)** — the digital character sheet platform for this campaign.
 

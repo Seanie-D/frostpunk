@@ -175,7 +175,7 @@ Some starting points:
 
 Before your first session begins, every player gets a short opening scene - just you and the GM, no other players. It's a cinematic moment that establishes who you are before the party forms.
 
-Note that you are in on the vignette. This is not like an adventure where we don't know exactly what's going to happen - you both know that you're going to sign the papers and start this journey. This is for the other players to find out about your character in a fun way.
+Note that you are in on the vignette. This is not like an adventure where we don't know exactly what's going to happen - you both know that you're going to sign the Guild papers and start this journey. This is for the other players to find out about your character in a fun way.
 
 *More details coming. Discuss with the GM during character creation.*
 
