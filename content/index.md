@@ -57,5 +57,3 @@ Once your character is ready, message the right Discord chat or Sean directly to
 ---
 
 *Frostpunk RPG uses the **[[The Nimble System|Nimble TTRPG]]** system — [full rules at nimblerpg.com](https://nimblerpg.com).*
-
-This is a small test tweak from Sean, ignore this text
