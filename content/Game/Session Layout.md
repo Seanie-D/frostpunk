@@ -81,7 +81,7 @@ Return travel costs the same rations as the journey out, though takes half as lo
 
 Back in [[Hearth]], relics are delivered to the Engine Chamber in the Guildhall. [[Nyla Vexorian]] appraises and logs each one.
 
-**The Engine needs at least one relic per expedition to keep the [[The Hearth Engine|Thermal Sphere]] stable.** Feeding more than that earns blessings from the Engine - temporary or permanent, depending on how generous you are. See [[Boons of the Engine]] for the full details.
+**The Engine needs at least one relic per expedition to keep the [[The Hearth Engine|Thermal Sphere]] stable.** Feeding more than that earns Boons from the Engine - temporary or permanent, depending on how generous you are. See [[Boons of the Engine]] for the full details.
 
 What you do with the rest of your haul - sell it, keep it, donate it - is your business. But be aware: Hearth's factions are watching. How many relics you burn, how many you keep, and where any extras end up all carry weight with the people who run this town. Generosity and greed are both noticed.
 

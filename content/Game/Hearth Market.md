@@ -159,3 +159,9 @@ Many traders - especially nomadic or independent ones - prefer goods over gold. 
 - Excess relics or manuscripts
 - Rations, fuel, or medicinal herbs
 - Maps or information about distant regions
+
+---
+
+## Feeding the Engine
+
+Selling isn't the only thing you can do with a relic. At the end of every expedition, relics can be sacrificed to the [[The Hearth Engine|Hearth Engine]] instead of sold - and feeding it generously earns lasting power. Weigh the gold against the reward before you hand a relic to a trader. See [[Boons of the Engine]].

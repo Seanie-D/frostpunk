@@ -31,18 +31,18 @@ The world inside the Sphere behaves as it should. Seasons still turn within its 
 - **Relics:** Any magical item or artifact recovered from the world outside of Hearth can be sacrificed to the Engine.
 - **Lore Manuscripts:** While not as potent as relics, ancient manuscripts contain the essence of knowledge and can be "processed" (2 manuscripts = 1 minor relic's worth of fuel).
 
-## Blessings of the Engine
+## Boons of the Engine
 
 The Engine does not simply consume. Those who feed it generously find themselves... changed. Bolstered. As though the Engine returns something of what it is given.
 
 Guild scholars have no clean explanation for this. The Flamewardens do not find it surprising at all.
 
-- **Feed one relic:** Receive a **temporary blessing** - a short-term boon that fades after rest.
-- **Feed three relics at once:** Receive a **Minor Blessing** - a permanent boon.
-- **Feed six relics at once:** Receive a **Major Blessing** - a more powerful permanent boon.
-- **Feed ten relics at once:** Receive an **Epic Blessing** - a rare and significant permanent boon.
+- **Feed one relic:** Receive a **Temporary Boon** - a short-term reward that fades after rest.
+- **Feed three relics at once:** Receive a **Minor Boon** - a permanent reward.
+- **Feed six relics at once:** Receive a **Major Boon** - a more powerful permanent reward.
+- **Feed ten relics at once:** Receive an **Epic Boon** - a rare and significant permanent reward.
 
-See [[Boons of the Engine]] for the full list of available blessings.
+See [[Boons of the Engine]] for the full list of available Boons.
 
 ---
 
